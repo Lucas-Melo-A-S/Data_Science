@@ -20,6 +20,6 @@ Engenheiro Civil com 5 anos de experiência na área que após alguns anos decid
 Veja minhas publicações :
 
 * **Em Processo de Criação:** https://i.gifer.com/9u7v.gif
-
+* **Aaalise da cidade Venice Airbnb** https://bityli.com/Dq96fFL
 
 ---
