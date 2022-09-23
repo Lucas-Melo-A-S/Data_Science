@@ -20,7 +20,10 @@ Engenheiro Civil com 5 anos de experiência na área que após alguns anos decid
 Veja minhas publicações :
 
 * [**Analise da cidade Venice Airbnb**](https://bityli.com/Dq96fFL)
+* [**Analise de Dados Adventure Works**](https://bit.ly/3xLWZdu)
 * [**Panorama do COVID-19 no Mundo e no Brasil**](https://bit.ly/3sE9KnB)
 * [**Detecção de Fraudes em Cartões de Crédito**](https://bit.ly/3LldFfH)
+* [**Churn_Prediction_para_uma_empresa_de_Telecomunicações**](https://bit.ly/3qZS1FZ)
+* [**Avaliação de Risco e Crédito**](https://bit.ly/3DPiC0e)
 * [**Em Processo de Criação ...**](https://i.gifer.com/9u7v.gif)
 ---
