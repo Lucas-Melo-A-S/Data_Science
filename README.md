@@ -1,6 +1,6 @@
 # Data_Science
 
-# [![Author](https://img.shields.io/badge/author-lucasm-red.svg)](https://www.linkedin.com/in/lucas-silva-74129417a) [![GitHub](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+# [![Author](https://img.shields.io/badge/author-lucasm-red.svg)](https://www.linkedin.com/in/lucas-silva-74129417a) [![GitHub](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-3112/) 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lucas-Melo-A-S/Data_Science/main/Banner%20Data%20Science.png" >
 </p>
