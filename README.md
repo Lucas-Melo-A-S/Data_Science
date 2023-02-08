@@ -8,8 +8,8 @@
 # Lucas Melo
 <sub>*Engenheiro Civil e Graduando em Engenharia de Software</sub>
 
-Engenheiro Civil com 5 anos de experiência na área que após alguns anos decidiu recomeçar a vida na carreira de Data Science, procuro está sempre a par de todas as notícias do mundo, posso não saber a resposta de todas as perguntas mas garanto que irei procurar em todos os meios para que eu possa responder da maneira mais sucinta possível
-**Background in:** Python, Java, Machine Learning.
+Engenheiro Civil com 6 anos de experiência na área e Engenheiro de Software decidi recomeçar a minha vida na carreira de Cientista de Dados, procuro está sempre a par de todas as notícias do mundo, posso não saber a resposta de todas as perguntas mas garanto que irei procurar em todos os meios para que eu possa responder da maneira mais sucinta possível.
+**Background in:** Python, SQL, Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucas-silva-74129417a)
